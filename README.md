@@ -30,4 +30,7 @@ A developer inspired by the possibilities of AI.
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deceptrax123&theme=dark&show_icons=true)-->
+## Statistics
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Deceptrax123&count_private=true&theme=gruvbox&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=midnight-purple)
