@@ -30,9 +30,11 @@ A developer inspired by the possibilities of AI.
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-## Statistics
+## Stats
 
-<p align="middle">
-    <img src="https://github-readme-stats.vercel.app/api?username=Deceptrax123&count_private=true&theme=gruvbox&show_icons=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=midnight-purple">
-</p>
+![Srinitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deceptrax123&theme=midnight-purple&show_icons=true&count_private=true)
+[![Srinitish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=midnight-purple)](https://git.io/streak-stats)
+
+## Contribution Graph
+
+![snake-gif](https://github.com/Deceptrax123/Deceptrax123/blob/output/github-contribution-grid-snake.gif)
