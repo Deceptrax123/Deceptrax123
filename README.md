@@ -33,6 +33,6 @@ A developer inspired by the possibilities of AI.
 ## Statistics
 
 <p align="middle">
-    <img src="https://github-readme-stats.vercel.app/api?username=Deceptrax123&count_private=true&theme=gruvbox&show_icons=true" width="100">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=midnight-purple" width="100">
+    <img src="https://github-readme-stats.vercel.app/api?username=Deceptrax123&count_private=true&theme=gruvbox&show_icons=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=midnight-purple">
 </p>
