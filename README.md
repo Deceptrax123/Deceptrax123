@@ -2,11 +2,9 @@
 
 ## About Me
 
-A developer inspired by the possibilities of AI.
-
-- Currently working with NodeJS and React
-- I like collaborating with others to expand my knowledge and learn new technologies.
-- Currently learning about computer vision.
+<div style='text-align:justify'>
+    Currently pursuing Computer Science and Engineering in Vellore Institute of Technology.I enjoy exploring new technology and exposing myself to various challenges. I am passionate about Machine Learning, and I am currently exploring the field of NLP
+</div>
 
 ## Technologies
 
@@ -29,6 +27,19 @@ A developer inspired by the possibilities of AI.
 ![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+## Contact
+
+<p>
+<a href="https://www.linkedin.com/in/srinitish-srinivasan-94849924a/">
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+<a href="">
+![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
+
+</a>
+</p>
 
 <h2 align="left">Stats</h2>
 
