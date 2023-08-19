@@ -3,7 +3,8 @@
 ## About Me
 
 <div style='text-align:justify'>
-    Currently pursuing Computer Science and Engineering in Vellore Institute of Technology.I enjoy exploring new technology and exposing myself to various challenges. I am passionate about Machine Learning, and I am currently exploring the field of NLP
+    A deep learning enthusiast, pursuing research in the field of computer vision inclusive of semantic segmentation, anomaly detection,     generative modelling etc.
+    I love mathematics and statistics, also a music and k drama addict. I am either sitting behind my laptop training models or watching a k drama . As of music, well that is a 24/7 thing in my life , I am extremely consistent in that field.
 </div>
 
 ## Technologies
