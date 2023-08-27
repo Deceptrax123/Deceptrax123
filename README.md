@@ -5,9 +5,20 @@
 </h2>
 
 <div style='text-align:justify'>
-    A deep learning enthusiast, pursuing research in the field of computer vision inclusive of semantic segmentation, anomaly detection,     generative modelling etc.
-    I love mathematics and statistics, also a music and k drama addict. I am either sitting behind my laptop training models or watching a k drama . As of music, well that is a 24/7 thing in my life , I am extremely consistent in that field.
+    <ul>
+        <li>A deep learning enthusiast pursuing research in computer vision, NLP etc, Backend developer</li>
+        <li>Passionate in the fields of mathematics, statistics and quantum physics</li>
+        <li>Love watching movies,reading and connecting 
+        <li>Full time music addict, ranging from Kpop to Piano and Violin classics 🤝
+    </ul>
 </div>
+
+<h2 align="center">
+ Profile Summary
+</h2>
+
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deceptrax123&theme=synthwave"> |
+| -------------------------------------------------------------------------------------------------------------------------- |
 
 <h2 align="center">
  Tech Stack
@@ -73,12 +84,17 @@ Github Stats
 
 <div align="center">
 
-|                                             Streaks                                             |
+|                                                                                                 |
 | :---------------------------------------------------------------------------------------------: |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=synthwave"> |
 
 </div>
 
-| Repo Stats                                                                                                                 | Commit Stats                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deceptrax123&theme=synthwave) | ![commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deceptrax123&theme=synthwave) |
+|                                                                                                                            |                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deceptrax123&theme=synthwave) | ![commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deceptrax123&theme=synthwave)             |
+| ![profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deceptrax123&theme=synthwave)           | ![commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deceptrax123&theme=synthwave&utcOffset=+5.30) |
+
+<h2 align="center">
+ My Gists
+</h2>
