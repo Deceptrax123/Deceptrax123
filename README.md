@@ -54,7 +54,12 @@ Github Stats
 </h2>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=synthwave" height=auto width=50% display=block>
+
+| Streak Stats |
+| ------------ |
+
+| ![streak]("https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=synthwave)
+
 </p>
 
 | Repo Stats                                                                                                                 | Commit Stats                                                                                                                   |
