@@ -53,8 +53,13 @@
 Github Stats
 </h2>
 
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=synthwave"> |
+<div align="center">
+
+|                                             Streaks                                             |
 | :---------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=synthwave"> |
+
+</div>
 
 | Repo Stats                                                                                                                 | Commit Stats                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
