@@ -59,11 +59,4 @@ Github Stats
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=synthwave" display=block height=auto width="50%">
         </p></td>
     </tr>
-    <tr>
-       <td> <p>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deceptrax123&theme=synthwave" display=block height=auto width=100%></p></td>
-            <p><td>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deceptrax123&theme=synthwave" display=block  height=auto width=100%>
-            </p> </td>
-    </tr>
 </table>
