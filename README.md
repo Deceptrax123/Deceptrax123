@@ -73,6 +73,8 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/srinitish-srinivasan-94849924a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:srinitishsri@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://open.spotify.com/user/hr7259glutzuuals2wvt6z4h3?si=7e5eaf67af294766">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 
@@ -98,3 +100,6 @@ Github Stats
 <h2 align="center">
  My Gists
 </h2>
+
+| <img src="https://gists-readme.yizack.com/api/pin?user=Deceptrax123&id=fabc6a076e4502b246f37cfdcae5bbef&owner=true"> | <img src="https://gists-readme.yizack.com/api/pin?user=Deceptrax123&id=1001eb188ad92c26ec473142e6c3abac&owner=true"> |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
