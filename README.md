@@ -53,10 +53,6 @@
 Github Stats
 </h2>
 
-<table>
-    <tr>
-        <td><p align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=synthwave" display=block height=auto width="50%">
-        </p></td>
-    </tr>
-</table>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=synthwave" height=auto width=50% display=block>
+</p>
