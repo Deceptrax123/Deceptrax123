@@ -41,7 +41,6 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-
 <h2 align="center">
     My Socials
 </h2>
@@ -50,8 +49,6 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/hr7259glutzuuals2wvt6z4h3?si=7e5eaf67af294766)
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/smudge_0110)
 
-    
-    
 <h2 align="center">
 Github Stats
 </h2>
@@ -60,6 +57,13 @@ Github Stats
     <tr>
         <p align="center">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=midnight-purple" width="50%">
+        </p>
+    </tr>
+</table>
+<table>
+    <tr>
+        <p align="center">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deceptrax123&theme=aura">
         </p>
     </tr>
 </table>
