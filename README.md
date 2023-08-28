@@ -14,8 +14,8 @@
     <ul>
         <li>A deep learning enthusiast pursuing research in computer vision, NLP etc, Backend developer</li>
         <li>Passionate in the fields of mathematics, statistics and quantum physics</li>
-        <li>Love watching movies,reading and connecting 
-        <li>Full time music addict, ranging from Kpop to Piano and Violin classics 🤝
+        <li>Love watching movies,reading and connecting</li>
+        <li>Full time music addict, ranging from Kpop to Piano and Violin classics 🤝</li>
     </ul>
 </div>
 
@@ -33,10 +33,6 @@
 <h2 align="center">
  My Tech Stack
 </h2>
-
-<h3 align="center">
- Tools
- </h3>
 
  <p align="center">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -56,13 +52,6 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
-</p>
-
-<h3 align="center">
- Languages
-</h3>
-
-<p align="center">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
