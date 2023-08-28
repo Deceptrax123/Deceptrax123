@@ -34,8 +34,11 @@
  My Tech Stack
 </h2>
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+</div>
+
  <p align="center">
-    <img src="./Images/tech_stack.gif" height=50% width=75%>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -105,5 +108,5 @@ My Github Stats
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 
 <div align="center">
-    <img src="./Images/multi_screen.gif" width=90%>
+    <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width=90%>
 </div>
