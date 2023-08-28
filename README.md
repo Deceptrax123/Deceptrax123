@@ -1,9 +1,9 @@
 <h1 align="center">
- Hi there, I am Smudge
+  Hi there, I am Smudge, welcome!
 </h1>
-
+ 
  <div align="center">
-    <img src="./Images/intro.png" width=100% height=auto display=block>
+    <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width=100% height=auto display=block>
 </div>
 
 <h2 align="center">
@@ -35,6 +35,7 @@
 </h2>
 
  <p align="center">
+    <img src="./Images/tech_stack.gif">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -102,3 +103,7 @@ My Github Stats
 
 | <img src="https://gists-readme.yizack.com/api/pin?user=Deceptrax123&id=fabc6a076e4502b246f37cfdcae5bbef&owner=true"> | <img src="https://gists-readme.yizack.com/api/pin?user=Deceptrax123&id=1001eb188ad92c26ec473142e6c3abac&owner=true"> |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+
+<div align="center">
+    <img src="./Images/multi_screen.gif" width=100% height=auto>
+</div>
