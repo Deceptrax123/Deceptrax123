@@ -1,5 +1,6 @@
 <h1 align="center">
  Hi there, I am Smudge
+</h1>
 
  <div align="center">
     <img src="./Images/intro.png" width=100% height=auto display=block>
@@ -30,7 +31,7 @@
 </div>
 
 <h2 align="center">
- Tech Stack
+ My Tech Stack
 </h2>
 
 <h3 align="center">
@@ -90,7 +91,7 @@
 </p>
 
 <h2 align="center">
-Github Stats
+My Github Stats
 </h2>
 
 <div align="center">
