@@ -1,5 +1,10 @@
 <h1 align="center">
  Hi there, I am Smudge
+
+ <div align="center">
+    <img src="./Images/intro.png" width=100% height=auto display=block>
+</div>
+
 <h2 align="center">
     About me
 </h2>
@@ -17,8 +22,12 @@
  Profile Summary
 </h2>
 
+<div align="center">
+
 | <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deceptrax123&theme=synthwave"> |
 | -------------------------------------------------------------------------------------------------------------------------- |
+
+</div>
 
 <h2 align="center">
  Tech Stack
@@ -90,12 +99,12 @@ Github Stats
 | :---------------------------------------------------------------------------------------------: |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deceptrax123&theme=synthwave"> |
 
-</div>
-
 |                                                                                                                            |                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deceptrax123&theme=synthwave) | ![commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deceptrax123&theme=synthwave)             |
 | ![profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deceptrax123&theme=synthwave)           | ![commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deceptrax123&theme=synthwave&utcOffset=+5.30) |
+
+</div>
 
 <h2 align="center">
  My Gists
