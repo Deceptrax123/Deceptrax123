@@ -35,7 +35,7 @@
 </h2>
 
  <p align="center">
-    <img src="./Images/tech_stack.gif">
+    <img src="./Images/tech_stack.gif" height=50% width=75%>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -105,5 +105,5 @@ My Github Stats
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 
 <div align="center">
-    <img src="./Images/multi_screen.gif" width=100% height=auto>
+    <img src="./Images/multi_screen.gif" width=90%>
 </div>
