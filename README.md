@@ -104,7 +104,7 @@ My Github Stats
  My Gists
 </h2>
 
-| <img src="https://gists-readme.yizack.com/api/pin?user=Deceptrax123&id=fabc6a076e4502b246f37cfdcae5bbef&owner=true"> | <img src="https://gists-readme.yizack.com/api/pin?user=Deceptrax123&id=1001eb188ad92c26ec473142e6c3abac&owner=true"> |
+| <a href="https://gist.github.com/Deceptrax123/fabc6a076e4502b246f37cfdcae5bbef"><img src="https://gists-readme.yizack.com/api/pin?user=Deceptrax123&id=fabc6a076e4502b246f37cfdcae5bbef&owner=true"></a>| <a href="https://gist.github.com/Deceptrax123/1001eb188ad92c26ec473142e6c3abac"><img src="https://gists-readme.yizack.com/api/pin?user=Deceptrax123&id=1001eb188ad92c26ec473142e6c3abac&owner=true"></a> |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 
 <div align="center">
