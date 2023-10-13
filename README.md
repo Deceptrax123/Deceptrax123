@@ -1,7 +1,13 @@
 <h1 align="center">
   Hi there, I am Smudge, welcome!
 </h1>
- 
+
+<div align='center' >
+
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+  
+</div>
+
  <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width=100% height=350>
 </div>
