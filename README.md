@@ -76,11 +76,12 @@
 </p>
 
 <h2 align="center">
-    My Socials
+    My Socials And Blog
 </h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/srinitish-srinivasan-94849924a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://medium.com/@srinitishsrinivasan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
     <a href="mailto:srinitishsri@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://open.spotify.com/user/hr7259glutzuuals2wvt6z4h3?si=7e5eaf67af294766">
