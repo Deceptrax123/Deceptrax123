@@ -76,7 +76,7 @@
 </p>
 
 <h2 align="center">
-    My Socials And Blog
+    My Socials,Blog and Research
 </h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/srinitish-srinivasan-94849924a/">
@@ -86,6 +86,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://open.spotify.com/user/hr7259glutzuuals2wvt6z4h3?si=7e5eaf67af294766">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="https://scholar.google.com/citations?user=Vz1FpKAAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+    </a>
 
 </p>
 
@@ -107,11 +110,21 @@ My Github Stats
 </div>
 
 <h2 align="center">
- My Gists
+ Top Projects
 </h2>
 
-| <a href="https://gist.github.com/Deceptrax123/fabc6a076e4502b246f37cfdcae5bbef"><img src="https://gists-readme.yizack.com/api/pin?user=Deceptrax123&id=fabc6a076e4502b246f37cfdcae5bbef&owner=true"></a>| <a href="https://gist.github.com/Deceptrax123/1001eb188ad92c26ec473142e6c3abac"><img src="https://gists-readme.yizack.com/api/pin?user=Deceptrax123&id=1001eb188ad92c26ec473142e6c3abac&owner=true"></a> |
-| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+<table>
+    <tr>
+        <p align="center">
+            <a href="https://github.com/Deceptrax123/Side-Effect-Detection-using-GNNs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Side-Effect-Detection-using-GNNs&cache_seconds=60&theme=radical" display=block height=auto></a>
+            <a href="https://github.com/Deceptrax123/Self-Supervised-Learning-using-YOLOv5-Backbone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Self-Supervised-Learning-using-YOLOv5-Backbone&cache_seconds=60&theme=radical" display=block height=auto></a>
+            <a href="https://github.com/Deceptrax123/Differential-Equations-Using-Neural-Networks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Differential-Equations-Using-Neural-Networks&cache_seconds=60&theme=radical" display=block height=auto></a>
+            <a href="https://github.com/Deceptrax123/Pattern-Recognition-in-Abstract-art-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Pattern-Recognition-in-Abstract-art-&cache_seconds=60&theme=radical" display=block height=auto></a>
+            <a href="https://github.com/Deceptrax123/Self-Supervised-Pseudolabelling-using-CSPDarknet-53"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Self-Supervised-Pseudolabelling-using-CSPDarknet-53&cache_seconds=60&theme=radical" display=block height=auto></a>
+            <a href="https://github.com/Deceptrax123/Real-Time-Smoke-Detection-during-Laproscopy-using-surgical-videos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Real-Time-Smoke-Detection-during-Laproscopy-using-surgical-videos&cache_seconds=60&theme=radical" display=bloxk height =auto></a>
+        </p>
+    </tr>
+</table>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
