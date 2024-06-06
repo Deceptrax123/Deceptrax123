@@ -108,6 +108,9 @@ My Github Stats
 | ![profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deceptrax123&theme=synthwave)           | ![commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deceptrax123&theme=synthwave&utcOffset=+5.30) |
 
 </div>
+<h2 align="center">
+ Projects
+</h2>
 
 <table>
     <tr>
