@@ -121,7 +121,7 @@ My Github Stats
             <a href="https://github.com/Deceptrax123/Differential-Equations-Using-Neural-Networks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Differential-Equations-Using-Neural-Networks&cache_seconds=60&theme=radical" display=block height=auto></a>
             <a href="https://github.com/Deceptrax123/Pattern-Recognition-in-Abstract-art-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Pattern-Recognition-in-Abstract-art-&cache_seconds=60&theme=radical" display=block height=auto></a>
             <a href="https://github.com/Deceptrax123/Self-Supervised-Pseudolabelling-using-CSPDarknet-53"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Self-Supervised-Pseudolabelling-using-CSPDarknet-53&cache_seconds=60&theme=radical" display=block height=auto></a>
-            <a href="https://github.com/Deceptrax123/Real-Time-Smoke-Detection-during-Laproscopy-using-surgical-videos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Real-Time-Smoke-Detection-during-Laproscopy-using-surgical-videos&cache_seconds=60&theme=radical" display=block height=auto></a>
+            <a href="https://github.com/Deceptrax123/Real-Time-Smoke-Detection-during-Laproscopy-using-surgical-videos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Real-Time-Smoke-Detection-during-Laproscopy-using-surgical-videos&cache_seconds=30&theme=radical" display=block height=auto></a>
         </p>
     </tr>
 </table>
