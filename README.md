@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I am Smudge, welcome!
+  Hi there, I am Nitish, welcome!
 </h1>
 
 <div align='center' >
