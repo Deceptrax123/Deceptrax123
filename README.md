@@ -2,19 +2,16 @@
   Hi there, I am Nitish, welcome!
 </h1>
 
-<div align='center' >
-
-  ![](https://komarev.com/ghpvc/?username=Deceptrax123&color=blueviolet)
-
-</div>
 
  <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width=100% height=350>
 </div>
 
-<h2 align="center">
-    About me
-</h2>
+<p align="center">
+ 
+ <img src="https://profile-counter.glitch.me/Deceptrax123/count.svg"/>
+
+</p>
 
 <div style='text-align:justify'>
     <ul>
