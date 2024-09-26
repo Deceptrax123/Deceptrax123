@@ -3,9 +3,6 @@
 </h1>
 
 
- <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width=100% height=350>
-</div>
 
 <p align="center">
  
