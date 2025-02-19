@@ -102,22 +102,6 @@ My Github Stats
 | ![profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deceptrax123&theme=synthwave)           | ![commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deceptrax123&theme=synthwave&utcOffset=+5.30) |
 
 </div>
-<h2 align="center">
- Projects
-</h2>
-
-<table>
-    <tr>
-        <p align="center">
-            <a href="https://github.com/Deceptrax123/Side-Effect-Detection-using-GNNs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Side-Effect-Detection-using-GNNs&cache_seconds=60&theme=radical" display=block height=auto></a>
-            <a href="https://github.com/Deceptrax123/Self-Supervised-Learning-using-YOLOv5-Backbone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Self-Supervised-Learning-using-YOLOv5-Backbone&cache_seconds=60&theme=radical" display=block height=auto></a>
-            <a href="https://github.com/Deceptrax123/Differential-Equations-Using-Neural-Networks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Differential-Equations-Using-Neural-Networks&cache_seconds=60&theme=radical" display=block height=auto></a>
-            <a href="https://github.com/Deceptrax123/Pattern-Recognition-in-Abstract-art-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Pattern-Recognition-in-Abstract-art-&cache_seconds=60&theme=radical" display=block height=auto></a>
-            <a href="https://github.com/Deceptrax123/Self-Supervised-Pseudolabelling-using-CSPDarknet-53"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Self-Supervised-Pseudolabelling-using-CSPDarknet-53&cache_seconds=60&theme=radical" display=block height=auto></a>
-            <a href="https://github.com/Deceptrax123/Crop-Weed-Semantic-Segmentation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deceptrax123&repo=Crop-Weed-Semantic-Segmentation&cache_seconds=60&theme=radical" display=block height=auto></a>
-        </p>
-    </tr>
-</table>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
