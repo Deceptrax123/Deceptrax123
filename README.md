@@ -14,7 +14,7 @@
     <ul>
         <li>My research interests include graph machine learning, self supervised learning, OOD generalization and robotics.</li>
         <li>Part time developer as well :)</li>
-        <li>Passionate in Mathematics and Physics./li>
+        <li>Passionate in Mathematics and Physics.</li>
         <li>Love watching show,reading and networking. Massive K drama addict lol.</li>
         <li>Full time music addict, ranging from Kpop to Violin 🤝</li>
     </ul>
