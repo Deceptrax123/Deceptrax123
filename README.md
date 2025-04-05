@@ -31,7 +31,7 @@
 </div>
 
 <h2 align="center">
- My Tech Stack
+Tech Stack
 </h2>
 
 
@@ -65,7 +65,7 @@
 </p>
 
 <h2 align="center">
-    My Socials,Blog and Research
+   Socials,Blog and Research
 </h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/srinitish-srinivasan-94849924a/">
@@ -82,7 +82,7 @@
 </p>
 
 <h2 align="center">
-My Github Stats
+Github Stats
 </h2>
 
 <div align="center">
