@@ -12,10 +12,11 @@
 
 <div style='text-align:justify'>
     <ul>
-        <li>A deep learning enthusiast pursuing research in computer vision, NLP etc, Backend developer</li>
-        <li>Passionate in the fields of mathematics, statistics and quantum physics</li>
-        <li>Love watching movies,reading and connecting</li>
-        <li>Full time music addict, ranging from Kpop to Piano and Violin classics 🤝</li>
+        <li>My research interests include graph machine learning, self supervised learning, OOD generalization and robotics.</li>
+        <li>Part time developer as well :)</li>
+        <li>Passionate in Mathematics and Physics./li>
+        <li>Love watching show,reading and networking. Massive K drama addict lol.</li>
+        <li>Full time music addict, ranging from Kpop to Violin 🤝</li>
     </ul>
 </div>
 
