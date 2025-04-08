@@ -3,13 +3,6 @@
 </h1>
 
 
-
-<p align="center">
- 
- <img src="https://profile-counter.glitch.me/Deceptrax123/count.svg"/>
-
-</p>
-
 <div style='text-align:justify'>
     <ul>
         <li>My research interests include graph machine learning, self supervised learning, OOD generalization and robotics.</li>
