@@ -5,7 +5,7 @@
 
 <div style='text-align:justify'>
     <ul>
-        <li>My research interests include geometric deep learning, working with Riemmannian geometry and applications of graph ML. </li>
+        <li>My research interests include geometric deep learning, Riemannian Machine Learning and applications of graph ML. </li>
         <li>Part time developer as well :)(I freelance)</li>
         <li>Passionate in Mathematics and Physics.</li>
         <li>Love watching show,reading and networking. Massive K drama addict lol.</li>
